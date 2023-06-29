@@ -25,6 +25,17 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
+kaggle = "^1.5.13"
+ipython = "^8.14.0"
+ipykernel = "^6.23.3"
+notebook = "^6.5.4"
+numpy = "^1.25.0"
+imblearn = "^0.0"
+xgboost = "^1.7.6"
+tabpfn = "^0.1.9"
+pandas = "^2.0.3"
+torch = "^2.0.1"
+ipywidgets = "^8.0.6"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
